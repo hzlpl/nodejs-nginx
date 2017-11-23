@@ -1,8 +1,4 @@
-tomcat+nginx   +vim
-
-tomcat:
-/usr/local/tomcat/webapp
-/usr/local/tomcat/conf/context.xml
+nodejs+nginx   +vim
 
 nginx:
 /etc/nginx/nginx.conf

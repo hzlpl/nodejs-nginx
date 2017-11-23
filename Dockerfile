@@ -1,4 +1,4 @@
-FROM tomcat:7-jre8
+FROM mc2labs/nodejs
 MAINTAINER lipeilong <xxx@xxx.cn>
 
 RUN sed -i 's/deb.debian.org/mirrors.aliyun.com/' /etc/apt/sources.list
